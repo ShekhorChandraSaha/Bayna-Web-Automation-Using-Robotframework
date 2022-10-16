@@ -1,16 +1,13 @@
 # Web-Automation-Using-Robotframework
 
 ## Python-Robot-Framework-POM-Baynna.com
-Getting & Setting up the project
+## Getting & Setting up the project
 
-
-#### Heading 4
 Clone the project at any location
 Go to cloned project folder
 Install all the dependencies by running the following command
 py -m pip install -r requirements.txt
 
-######### Heading 4
 Run Single Test Case:
 robot .\folder name\file name in this folder.robot
 
