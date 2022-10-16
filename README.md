@@ -1,8 +1,8 @@
 # Web-Automation-Using-Robotframework
 
-## Heading 2
-Python-Robot-Framework-POM-Baynna.com
+## Python-Robot-Framework-POM-Baynna.com
 Getting & Setting up the project
+
 
 #### Heading 4
 Clone the project at any location
